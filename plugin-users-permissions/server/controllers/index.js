@@ -1,5 +1,7 @@
 'use strict';
 
+// test
+
 const auth = require('./auth');
 const user = require('./user');
 const role = require('./role');
